@@ -22,6 +22,7 @@ public class Armstrong {
 			System.out.println("Number is not armstrong  "+p+"  "+sum);
 		}
 		}
+	//Edited though github
 	public static void main(String args[]) {
 		reverse();
 	}
