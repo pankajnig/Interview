@@ -10,7 +10,11 @@ public class RegularExpression {
 			return str;
 		}
 		
+<<<<<<< HEAD
 		//Function for sorting string
+=======
+		//pankaj
+>>>>>>> efe4e8cdde9127689642301629dff837056a580c
 		public static void sortString() {
 			String s = "abc123efg234";
 			
