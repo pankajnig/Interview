@@ -13,7 +13,7 @@ public class Armstrong {
 			sum = sum + a*a*a;
 			str=str/10;
 		}
-		//New Comment
+		//New Comment added
 		while(str>0);
 		if(p==sum) {
 			System.out.println("Number is armstrong  "+p+"  "+sum);
